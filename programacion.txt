@@ -10,6 +10,10 @@
 > git rm --cached "Name file" "Dejo de monitorear un archivo"
 >>>>>>> con add no lo hemos mandado aún al repositorio>>>>
 > git commit -m "un menaje "  >>>>>"Manda el archivo al repositorio con un mensaje (para saber de que se trata)
->
+> git log (solo, me muestra las historia de cambios en toda mi carpeta)
+> git log "file name" me muestra la historia de un archivo particular
+
+########### HEAD -> master <<<< nos dice cual es el archivo actual!
+
 
 

@@ -1,7 +1,7 @@
-> git config --global user.name "Felipe">>>>"Cambiamos la configuracion del usuario de git"
->git config --global user.email "ppsier@...">>>"Cambiamos la configuracion del usuario de git"
 
 > git init "En la carpeta que quiero que sea mi directorio principar pára monitorear los cambios "
+> git config --global user.name "Felipe">>>>"Cambiamos la configuracion del usuario de git"
+>git config --global user.email "ppsier@...">>>"Cambiamos la configuracion del usuario de git"
 
 > git status "Nos monitorea nuestra carpeta (nos dice si hay archivos que no estemos monitoreando"
            ----Sale en rojo si no se está monitoreando aún 
@@ -15,5 +15,8 @@
 
 ########### HEAD -> master <<<< nos dice cual es el archivo actual!
 
+> git show "file name ">>>>> nos muestra los cambios ejecutados sobre un archivos
+
+> git diff "file code + viejo " "file code + nuevo"
 
 

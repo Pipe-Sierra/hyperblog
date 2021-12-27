@@ -18,5 +18,9 @@
 > git show "file name ">>>>> nos muestra los cambios ejecutados sobre un archivos
 
 > git diff "file code + viejo " "file code + nuevo"
+> git reset "num file""Ojoooo nos devuelve completamente a una version anterior borrando todo"
+           (Hay un --soft y un --hard el soft deja cosas en la memoria 
+           Para el proximo commit)
 
+> 
 

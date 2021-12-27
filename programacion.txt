@@ -1,0 +1,1 @@
+> git init "En la carpeta que quiero que sea mi directorio principar pára monitorear los cambios "

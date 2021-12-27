@@ -1,1 +1,15 @@
+> git config --global user.name "Felipe">>>>"Cambiamos la configuracion del usuario de git"
+>git config --global user.email "ppsier@...">>>"Cambiamos la configuracion del usuario de git"
+
 > git init "En la carpeta que quiero que sea mi directorio principar pára monitorear los cambios "
+
+> git status "Nos monitorea nuestra carpeta (nos dice si hay archivos que no estemos monitoreando"
+           ----Sale en rojo si no se está monitoreando aún 
+
+> git add . "CLAVE!, con este añadimos un archivo y cada una de las versiones que vamos trabajando"
+> git rm --cached "Name file" "Dejo de monitorear un archivo"
+>>>>>>> con add no lo hemos mandado aún al repositorio>>>>
+> git commit -m "un menaje "  >>>>>"Manda el archivo al repositorio con un mensaje (para saber de que se trata)
+>
+
+

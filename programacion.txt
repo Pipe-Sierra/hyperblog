@@ -22,5 +22,6 @@
            (Hay un --soft y un --hard el soft deja cosas en la memoria 
            Para el proximo commit)
 
-> 
+> git checkout "codigo file" "file name" para que podamos ver como era el archivo antes 
+
 

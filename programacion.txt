@@ -23,5 +23,10 @@
            Para el proximo commit)
 
 > git checkout "codigo file" "file name" para que podamos ver como era el archivo antes 
+               "master >>>> si queremos volver a la ultima version"
 
+////////////////////////////Flujo de trabajo////////////////////////
 
+> git clone url >>>> Con el link se traen los archivos el master y todos los cambios 
+>> git push >>>> se envia todo al servidor remoto!!
+> 

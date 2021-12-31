@@ -29,4 +29,20 @@
 
 > git clone url >>>> Con el link se traen los archivos el master y todos los cambios 
 >> git push >>>> se envia todo al servidor remoto!!
-> 
+> git fetch >>>> Si quiero traer una actualización 
+> git merge >>>> nos permite trabajar en una rama aparte sin afectar el master
+> git pull>>>>> obtengo la ultima verison de lo que pasó en el repositorio
+
+>git commit -am >>>>> esto hace el git add de los cambios 
+
+///////////////////ramas////////////////////////
+
+> git branch "Nombre de la rama">>>> Creamos nuestra rama
+> Para trabajar en la rama>>>> git checkout "nombre de la rama"
+ ///////////////MERGE ////////
+ Si vamos a hacer el merge de dos versiones es clave que estemos en la 
+que es master sino en nuestra rama sino mandamos todo a la rama....
+Osea quiero llevar la verison a master 
+
+> git branch>>> nos permite ver las ramas que hemos creado hasta ahora 
+

@@ -56,3 +56,16 @@ clara y completa de lo que estamos haciendo
 >> gitk >>>> nos abre un doftware que muestra la historia de todo con 
 las ramas 
 
+>>>> git log --all --graph --decorate --oneline >>> podemos ver como un arbolito
+la ruta de trabajo que se ha realizao con mi proyecto 
+
+
+///////////////////////TAGS///////////////////////
+git tag >>>>>>> nos muestra los tags 
+git show-ref --tags >>>>>>> nos muestra el tag completo 
+***para enciar los tags hacemos el pull y simplemente mandamos
+git push origin --tags
+
+git tag -d "nombre del tag" >>>>> para borrar un tag particular 
+
+git push origin :refs/tags/""
